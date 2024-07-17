@@ -12,5 +12,3 @@ Currently, two official plugins are available:
 # React Card Components - https://youtu.be/yYiwxYqQ9vg?si=Vs32rJVwYUD4pZqS
 
 # React.js - How to add CSS styles - https://youtu.be/r3SMd0YTSZs?si=yLuBFAWMvKeNe84J
-
-#
