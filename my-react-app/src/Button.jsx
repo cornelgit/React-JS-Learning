@@ -12,3 +12,11 @@ function Button() {
 }
 
 export default Button;
+
+// HOW TO STYLE REACT COMPONENTS WITH CSS
+// --------------------------------------
+// (not including external framework or preprocessors)
+//
+// 1. EXTERNAL
+// 2. MODULES
+// 3. INLINE

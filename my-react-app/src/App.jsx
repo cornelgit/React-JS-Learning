@@ -1,17 +1,13 @@
-import Button from "./Button.jsx";
-
-// HOW TO STYLE REACT COMPONENTS WITH CSS
-// --------------------------------------
-// (not including external framework or preprocessors)
-//
-// 1. EXTERNAL
-// 2. MODULES
-// 3. INLINE
+import Student from "./Student.jsx";
 
 function App() {
     return (
         <>
-            <Button />
+            <Student name="Spongebob" age={30} isStudent={true} />
+            <Student name="Patrick" age={42} isStudent={false} />
+            <Student name="Squidward" age={50} isStudent={false} />
+            <Student name="Sandy" age={27} isStudent={true} />
+            <Student />
         </>
     );
 }
