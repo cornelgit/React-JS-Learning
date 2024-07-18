@@ -14,3 +14,5 @@ Currently, two official plugins are available:
 # React.js - How to add CSS styles - https://youtu.be/r3SMd0YTSZs?si=yLuBFAWMvKeNe84J
 
 # PROPS in React explained - https://youtu.be/uvEAvxWvwOs?si=bEjFZo1K2GI_DMSZ
+
+# How to CONDITIONALLY RENDER in REACT - https://youtu.be/XvURBpFxdGw?si=IO8bRQu_1hq0M2m9
