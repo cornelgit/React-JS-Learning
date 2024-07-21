@@ -1,22 +1,31 @@
 function Button() {
-    const styles = {
-        backgroundColor: "hsl(200, 100%, 50%)",
-        color: "white",
-        padding: "10px 20px",
-        borderRadius: "5px",
-        border: "none",
-        cursor: "pointer",
+    // let count = 0;
+
+    // const handleClick = (name) => {
+    //     if (count < 3) {
+    //         ++count;
+    //         console.log(`${name} you clicked me ${count} time(s)`);
+    //     } else {
+    //         console.log(`${name} stop clicking me`);
+    //     }
+    // };
+
+    // const handleClick2 = (name) => {
+    //     console.log(`${name} stop clicking me!`);
+    // };
+
+    const handleClick = (e) => {
+        e.target.textContent = "OUCH!";
     };
 
-    return <button style={styles}>Click me</button>;
+    return (
+        <button
+            onClick={(e) => handleClick(e)}
+            //onDoubleClick={(e) => handleClick(e)}
+        >
+            Click me :)
+        </button>
+    ); // pass function is as callback (use arrow or function expression) or else it gets called right away
 }
 
 export default Button;
-
-// HOW TO STYLE REACT COMPONENTS WITH CSS
-// --------------------------------------
-// (not including external framework or preprocessors)
-//
-// 1. EXTERNAL
-// 2. MODULES
-// 3. INLINE

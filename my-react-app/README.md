@@ -18,3 +18,5 @@ Currently, two official plugins are available:
 # How to CONDITIONALLY RENDER in REACT - https://youtu.be/XvURBpFxdGw?si=IO8bRQu_1hq0M2m9
 
 # How to render LISTS in React - https://youtu.be/fkl1Kn_QWCI?si=tbYmU4LxyR-4rfyK
+
+# Learn React Click Events - https://youtu.be/KpiiKuqNlYw?si=chcDKG8JkZqzbunO
