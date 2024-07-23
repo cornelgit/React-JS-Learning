@@ -22,3 +22,5 @@ Currently, two official plugins are available:
 # Learn React Click Events - https://youtu.be/KpiiKuqNlYw?si=chcDKG8JkZqzbunO
 
 # React useState() hook introduction - https://youtu.be/SpDG283b4bw?si=xW_ETWwlDEjt91EO
+
+# Learn the React onChange event handler - https://youtu.be/JhIbXor84Wc?si=rRbC37NnM9Qf5nor

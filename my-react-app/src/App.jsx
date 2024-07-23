@@ -1,9 +1,9 @@
-import Counter from "./Counter.jsx";
+import ChangeEventHandle from "./ChangeEventHandle";
 
 function App() {
     return (
         <>
-            <Counter />
+            <ChangeEventHandle />
         </>
     );
 }
