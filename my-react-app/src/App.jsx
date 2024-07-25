@@ -1,9 +1,9 @@
-import ChangeEventHandle from "./ChangeEventHandle";
+
 
 function App() {
     return (
         <>
-            <ChangeEventHandle />
+            < />
         </>
     );
 }

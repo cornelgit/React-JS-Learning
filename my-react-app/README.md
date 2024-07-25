@@ -24,3 +24,7 @@ Currently, two official plugins are available:
 # React useState() hook introduction - https://youtu.be/SpDG283b4bw?si=xW_ETWwlDEjt91EO
 
 # Learn the React onChange event handler - https://youtu.be/JhIbXor84Wc?si=rRbC37NnM9Qf5nor
+
+# Build this React Color Picker app in 10 minutes - https://youtu.be/3hCN3dLHV24?si=2hHGCZPOcfgdl8NW
+
+#
