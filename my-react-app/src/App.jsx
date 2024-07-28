@@ -1,4 +1,4 @@
-
+import  from "./";
 
 function App() {
     return (
