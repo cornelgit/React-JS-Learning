@@ -1,9 +1,9 @@
-import UpdateArrayInState from "./UpdateArrayInState";
+import UpdateArrayOfObjectsInState from "./UpdateArrayOfObjectsInState";
 
 function App() {
     return (
         <>
-            <UpdateArrayInState />
+            <UpdateArrayOfObjectsInState />
         </>
     );
 }
