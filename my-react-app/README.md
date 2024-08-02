@@ -30,3 +30,7 @@ Currently, two official plugins are available:
 # 11 - What are React updater functions? - https://youtu.be/nbAaUpNDhRY?si=uczC9pPjjdEqGVQO
 
 # 12 - React JS how to update OBJECTS in state - https://youtu.be/YxQlt3n1ZPA?si=KdUw5oJJBcQ3TTdO
+
+# 13 - React JS how to update ARRAYS in state - https://youtu.be/A9Bz2YxhAQk?si=q7LMBasjtKH5BYtf
+
+# 14 - React JS update Array of OBJECTS in state - https://youtu.be/Y62mbztjmus?si=mC4UeelomVIXuPcP
