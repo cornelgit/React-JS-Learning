@@ -1,9 +1,9 @@
-import UpdateArrayOfObjectsInState from "./UpdateArrayOfObjectsInState";
+import ToDoList from "./ToDoList";
 
 function App() {
     return (
         <>
-            <UpdateArrayOfObjectsInState />
+            <ToDoList />
         </>
     );
 }
