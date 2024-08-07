@@ -1,9 +1,9 @@
-import ToDoList from "./ToDoList";
+import UseEffectHook from "./UseEffectHook";
 
 function App() {
     return (
         <>
-            <ToDoList />
+            <UseEffectHook />
         </>
     );
 }
