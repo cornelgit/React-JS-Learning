@@ -38,3 +38,5 @@ Currently, two official plugins are available:
 # 15 - Build this React To-Do List app in 20 minutes! - https://youtu.be/9wiWzu_tRB0?si=0_jllBi0kvSwz9lS
 
 # 16 - React useEffect() hook introduction - https://youtu.be/L-1sP3Ljhsg?si=7vyyNJ4CTWHaK5Sd
+
+# 17 - Build a DIGITAL CLOCK using React in 15 minutes! - https://youtu.be/AiQ-V_0qvRI?si=TNao00OQ9tz_qjVG
