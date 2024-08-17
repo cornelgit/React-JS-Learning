@@ -42,3 +42,5 @@ Currently, two official plugins are available:
 # 17 - Build a DIGITAL CLOCK using React in 15 minutes! - https://youtu.be/AiQ-V_0qvRI?si=TNao00OQ9tz_qjVG
 
 # 18 - React useContext() hook introduction - https://youtu.be/FpNfvbNYPsg?si=sWPpWR7TMQzALwPi
+
+# 19 - React useRef() hook introduction - https://youtu.be/AltU-XcGvuo?si=6pcVt16dEktDHWvr
