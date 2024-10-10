@@ -7,7 +7,7 @@
 //              [name, setName]
 import { useState } from "react";
 
-function MyComponent() {
+function UseStateComponent() {
     const [name, setName] = useState("Guest"); // useState function return an array with 2 elements - variable and a setter function
     const [age, setAge] = useState(0);
     const [isEmployed, setIsEmployed] = useState(false);
@@ -39,4 +39,4 @@ function MyComponent() {
     );
 }
 
-export default MyComponent;
+export default UseStateComponent;

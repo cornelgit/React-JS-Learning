@@ -78,14 +78,14 @@ export default UseEffectHook;
 
 // useEffect() = React Hook that allows React to DO SOME CODE WHEN (pick one)
 //               This component re-renders
-//               This component mounnts
+//               This component mounts
 //               The state of a value changes
 
 // useEffect(function, [dependencies])
 
 // 1. useEffect(() => {}) // Runs after every re-render
-// 1. useEffect(() => {}, []) // Runs only on mount (when a component is created and appended to the DOM)
-// 2. useEffect(() => {}, [value]) // Runs on mount + when value changes
+// 2. useEffect(() => {}, []) // Runs only on mount (when a component is created and appended to the DOM)
+// 3. useEffect(() => {}, [value]) // Runs on mount + when value changes
 
 // USES
 // #1 Event Listeners
